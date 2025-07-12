@@ -28,15 +28,11 @@ Ovo je jednostavna frontend aplikacija za provjeru i dodavanje sinonima. Aplikac
 
 git clone https://github.com/your-username/synonym-app.git
 
-2️⃣ Uđi u projekt
-
-cd client/synonym-app
-
-3️⃣ Instaliraj dependencije
+2️⃣ Instaliraj dependencije
 
 npm install
 
-4️⃣ Pokreni lokalno
+3️⃣ Pokreni lokalno
 
 npm run dev
 
