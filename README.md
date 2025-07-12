@@ -1,44 +1,41 @@
-# 🟦 Synonym App
+# Synonym App
 
 Ovo je jednostavna frontend aplikacija za provjeru i dodavanje sinonima. Aplikacija koristi React (Vite) i shadcn/ui za moderno, prilagodljivo korisničko sučelje.
 
 ---
 
-## 🚀 Features
+## Features
 
-✅ Provjera postoji li sinonim za unesenu riječ  
-✅ Dodavanje novog para sinonima  
-✅ Toast obavijesti za uspješne i neuspješne akcije  
-✅ Moderan dizajn (shadcn + Tailwind CSS)
+- Provjera postoji li sinonim za unesenu riječ  
+- Dodavanje novog para sinonima  
+- Toast obavijesti za uspješne i neuspješne akcije  
+- Moderan dizajn (shadcn + Tailwind CSS)
 
 ---
 
-## 🗂️ Tech stack
+## Tech stack
 
-- ⚛️ React (Vite)
-- 💨 Tailwind CSS
-- 🎨 shadcn/ui
-- 🍰 Axios (za komunikaciju s backendom)
+- React (Vite)
+- Tailwind CSS
+- shadcn/ui
+- Axios (za komunikaciju s backendom)
 
 ---
 
 ## ⚙️ Setup
 
-1️⃣ Kloniraj repozitorij
-
+1. Kloniraj repozitorij
 git clone https://github.com/your-username/synonym-app.git
 
-2️⃣ Instaliraj dependencije
-
+2. Instaliraj dependencije
 npm install
 
-3️⃣ Pokreni lokalno
-
+3. Pokreni lokalno
 npm run dev
 
 ---
 
-## 🌐 Backend
+## Backend
 
 Ova aplikacija koristi backend API (npr. Express ili drugi) koji mora biti dostupan na URL-u definiranom u .env datoteci:
 
