@@ -22,7 +22,7 @@ Ovo je jednostavna frontend aplikacija za provjeru i dodavanje sinonima. Aplikac
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 1. Kloniraj repozitorij
 git clone https://github.com/your-username/synonym-app.git
@@ -40,5 +40,3 @@ npm run dev
 Ova aplikacija koristi backend API (npr. Express ili drugi) koji mora biti dostupan na URL-u definiranom u .env datoteci:
 
 VITE_API_URL=http://localhost:3000
-
----
